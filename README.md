@@ -12,5 +12,4 @@ AI & Data Science student.
 
 ## My Goal
 To become a skilled AI & Data
-Science professional.# btech-skills-journey
-my first year skills development journey 
+Science professional.# to become a skilled professional AI&DS student 
